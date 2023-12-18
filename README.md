@@ -55,7 +55,7 @@
 ### :fire: My Stats :
 <div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=DilZhaan&theme=dracula"> &emsp;
-<img src="https://github-readme-stats.vercel.app/api?username=DilZhaan&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=DilZhaan&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilZhaan&layout=compact&theme=dracula"/>
 </div>
 ---
