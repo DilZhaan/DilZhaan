@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-<p>
+<p style="position:fixed;">
 ╔══════════════════════╗ <br/>
 ║&emsp;&emsp;&emsp;Welcome to My Profile!&emsp;&emsp;&emsp;║<br/>
 ╚══════════════════════╝<br/>
