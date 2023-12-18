@@ -53,11 +53,11 @@
 ---
 
 ### :fire: My Stats :
-
+<div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=DilZhaan&theme=dracula"> &emsp;
-<img src="https://github-readme-stats.vercel.app/api?username=DilZhaan&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" /><br/
-<center><p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilZhaan&layout=compact&theme=dracula"/></p></center> 
-
+<img src="https://github-readme-stats.vercel.app/api?username=DilZhaan&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilZhaan&layout=compact&theme=dracula"/>
+</div>
 ---
 
 <!--### :writing_hand: Blog Posts :-->
