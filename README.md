@@ -18,7 +18,7 @@
 <div align="center">
 <p style="position:fixed;">
 ╔════════════════════╗ <br/>
-║&emsp;&emsp;&emsp;Welcome to My Profile!&emsp;&emsp;&emsp;║<br/>
+║&emsp;Welcome to My Profile!&emsp;║<br/>
 ╚════════════════════╝<br/>
 </p>
 </div>
