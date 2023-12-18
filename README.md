@@ -2,9 +2,15 @@
   <img src="https://github.com/DilZhaan/DilZhaan/blob/main/Logo%20Png.png?raw=true" width="15%"/>
 </div>
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/FaceBook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.linkedin.com/in/dilzhaan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+  </a>
+  <a href="https://www.facebook.com/DilzhanYapa">
+    <img src="https://img.shields.io/badge/FaceBook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/17633900/dilzhan-yapa">
+    <img src="https://img.shields.io/badge/StackOverFlow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Twitter Badge"/>
+  </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=DilZhaan&style=flat-square&color=blue" alt=""/>
 </div>
