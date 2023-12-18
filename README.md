@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/DilZhaan/DilZhaan/blob/main/Logo%20Png.png?raw=true" width="15%"/>
+  <img src="https://github.com/DilZhaan/DilZhaan/blob/main/Logo%20Png.png?raw=true" width="20%"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dilzhaan/">
