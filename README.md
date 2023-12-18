@@ -60,10 +60,9 @@
 
 ### :fire: My Stats :
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilZhaan&layout=compact&theme=dracula"/> <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=DilZhaan&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" /><br/>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=DilZhaan&theme=dracula">
-
+<img src="https://github-readme-stats.vercel.app/api?username=DilZhaan&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats"  width = "400px"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=DilZhaan&theme=dracula"  height ="167px" width = "400px"><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilZhaan&layout=compact&theme=dracula"width = "400px"/>
 
 </div>
 
