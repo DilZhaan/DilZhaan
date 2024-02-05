@@ -75,6 +75,9 @@
 
 ### :writing_hand: Blog Posts :
 -->
+
+---
+
 ### :mortar_board: Academic Projects and Sample Codes :
 
  - <a href = "https://github.com/Dilzhan-s-Academic"> DilsZhan's Academic </a>
