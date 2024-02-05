@@ -30,7 +30,7 @@
 
 ### :woman_technologist: WHO AM I? :
 
-🚀 Hey there! I'm a tech-loving undergrad diving into the world of programming languages and cool gadgets. I share what I learn through articles, courses, and YouTube videos. Plus, I'm all about open-source, so feel free to use my code! Let's explore the tech universe together and turn ideas into reality. Join me on this exciting journey! 🌐💻🔍 
+ 🚀 Hey there! I'm a tech-loving undergrad diving into the world of programming languages and cool gadgets. I share what I learn through articles, courses, and YouTube videos. Plus, I'm all about open-source, so feel free to use my code! Let's explore the tech universe together and turn ideas into reality. Join me on this exciting journey! 🌐💻🔍 
 ----
 
 ### :hammer_and_wrench: Languages and Tools :
