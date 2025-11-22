@@ -1,88 +1,134 @@
-<div id="header" align="center">
-  <img src="https://github.com/DilZhaan/DilZhaan/blob/main/Logo%20Png.png?raw=true" width="25%"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dilzhaan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
-  </a>
-  <a href="https://www.facebook.com/DilzhanYapa">
-    <img src="https://img.shields.io/badge/FaceBook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://stackoverflow.com/users/17633900/dilzhan-yapa">
-    <img src="https://img.shields.io/badge/StackOverFlow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=DilZhaan&style=flat-square&color=blue" alt=""/>
-</div>
-
 <div align="center">
-<p style="position:fixed;">
-╔════════════════════╗ <br/>
-║&emsp;&emsp; Welcome to My Profile! &emsp;&emsp;║<br/>
-╚════════════════════╝<br/>
-</p>
-</div>
-
-<h1>
-  Hey , I'm DilZhan Yapa
-  <img src="https://github.com/DilZhaan/DilZhaan/blob/main/giphy.gif?raw=true" width="50px" align = 'center'/>
-</h1>
-
-### :woman_technologist: WHO AM I? :
-
-<p> 🚀 Hey there! I'm a tech-loving undergrad diving into the world of programming languages and cool gadgets. I share what I learn through articles, courses, and YouTube videos. Plus, I'm all about open-source, so feel free to use my code! Let's explore the tech universe together and turn ideas into reality. Join me on this exciting journey! 🌐💻🔍</p>
-
----
-
-
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/DilZhaan/DilZhaan/blob/main/express.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" title="Mongoose" alt="Mongoose" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+  <img src="https://github.com/DilZhaan/DilZhaan/blob/main/Logo%20Png.png?raw=true" width="20%"/>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-
-  <!--
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  -->
+  # 👋 Hi, I'm DilZhan Yapa
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38C2FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;DevOps+Engineer;CI/CD+Specialist;Cloud+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+  
+  <br/>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilzhaan/)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DilzhanYapa)
+  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17633900/dilzhan-yapa)
+  [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://dilzhan.medium.com/)
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dilzhan)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=DilZhaan&style=for-the-badge&color=brightgreen)
+  
 </div>
 
 ---
 
-### :fire: My Stats :
+## 🚀 About Me
+
+```typescript
+const dilzhan = {
+    pronouns: "He" | "Him",
+    code: ["Java", "Python", "JavaScript", "TypeScript"],
+    askMeAbout: ["web dev", "mobile dev", "tech", "data structures", "dev-ops"],
+
+    technologies: {
+        backEnd: {
+            js: ["Node.js", "Express", "NestJS"],
+            java: ["Spring Boot"],
+            python: ["Django", "Flask"]
+        },
+        frontEnd: {
+            js: ["React", "Next.js", "Vite"],
+            css: ["Tailwind CSS", "Material UI"]
+        },
+        extensionDev: ["VS Code", "GNOME Shell"],
+        mobileApp: ["React Native"],
+        databases: ["MongoDB", "MySQL", "Firebase"],
+        devOps: ["Docker", "GitHub Actions", "CI/CD", "Git"]
+    },
+
+    currentFocus: "Building scalable full-stack applications",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+🎓 **SE Undergrad** | 💻 **Full Stack Developer** | ⚙️ **DevOps & Cloud Explorer** | 🌟 **Open Source Enthusiast**
+
+I'm passionate about building efficient, scalable solutions and empowering others through articles, tutorials, and YouTube videos. Currently exploring cloud technologies, DevOps practices, and system design patterns to create robust, automated infrastructures!
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+### Backend Development
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DilZhaan&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats"  width = "400px"/>
-<!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=DilZhaan&theme=dracula"  height ="167px" width = "400px"><br/> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilZhaan&layout=compact&theme=dracula" height ="167px" width = "400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DilZhaan&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117" width="49%" alt="DilZhaan's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DilZhaan&theme=tokyonight&hide_border=true&background=0D1117" width="49%" alt="DilZhaan's GitHub Streak" />
+</div>
+
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilZhaan&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph" />
+</div> -->
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
-<!--
 ---
 
-### :writing_hand: Blog Posts :
--->
+<div align="center">
+  
+### 🐍 Watch my contribution graph get eaten by the snake!
+  
+![snake gif](https://github.com/DilZhaan/DilZhaan/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
+<div align="center">
+  
+### 💖 Show some love by starring some of my repositories!
+
+**Thanks for visiting! 😊**
+
+**☕ [Buy Me a Coffee](https://buymeacoffee.com/dilzhan)**
+
+</div>
