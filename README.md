@@ -12,6 +12,11 @@
   <a href="https://www.linkedin.com/in/DilZhaan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DilZhaan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/DilZhaan"><img alt="X" src="https://img.shields.io/badge/X-@DilZhaan-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:hello@dilzhan.com"><img alt="Email" src="https://img.shields.io/badge/Email-hello@dilzhan.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://buymeacoffee.com/dilzhan"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-dilzhan-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+</p>
+
+<p>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=DilZhaan&style=for-the-badge&color=brightgreen" />
 </p>
 
 </div>
