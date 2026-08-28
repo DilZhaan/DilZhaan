@@ -6,6 +6,8 @@
   <img alt="DilZhaan's live GitHub profile" src="./img/dark_mode.svg" />
 </picture>
 
+---
+
 <p>
   <a href="https://dilzhan.com"><img alt="Website" src="https://img.shields.io/badge/Website-dilzhan.com-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/DilZhaan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-DilZhaan-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
