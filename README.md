@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="DilZhaan's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <div align="center">
   <img src="https://github.com/DilZhaan/DilZhaan/blob/main/Logo%20Png.png?raw=true" width="18%"/>
 
