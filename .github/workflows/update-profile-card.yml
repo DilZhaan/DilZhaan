@@ -1,0 +1,42 @@
+name: Update Profile Card
+
+on:
+  schedule:
+    - cron: "31 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/generate-profile-card.mjs"
+      - ".github/workflows/update-profile-card.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile-card:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate live SVG profile card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          PROFILE_STARTED_AT: "2020-02-21T00:00:00+05:30"
+        run: node scripts/generate-profile-card.mjs
+
+      - name: Commit updated profile card
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update live profile card"
+          file_pattern: "img/dark_mode.svg img/light_mode.svg"
